@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FingerprintSample</string>
+    <string name="btn_text_trunon">开启指纹登录</string>
+    <string name="btn_text_trunoff">关闭指纹登录</string>
+    <string name="btn_text_state">指纹登录状态</string>
+    <string name="btn_text_detect">指纹登录</string>
+    <string name="text_detexting">请把手指放在指纹识别器上</string>
+</resources>
