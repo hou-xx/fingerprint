@@ -11,7 +11,7 @@ import java.net.URL;
  * <ul>
  * <li>功能说明：</li>
  * <li>作者：tal on 2017/2/17 0017 23:15 </li>
- * <li>邮箱：houxiangxiang@cibfintech.com</li>
+ * <li>邮箱：hou_xiangxiang@126.com</li>
  * </ul>
  */
 
